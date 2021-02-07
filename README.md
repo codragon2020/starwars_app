@@ -1,5 +1,46 @@
-# **Instructions**
 
-* Spend a few moments looking over the code sent to you. First, get the server running, then begin to dissect the JavaScript code found at the bottom of `add.html`.
+  <h1 align="center">Star Wars Character App 👋</h1>
 
-* Explain to one another what the code does, what its for, and why its relevant to the application so far. Be sure to explain to one another what the `fetch` code is doing.
+  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+
+  ## Description
+🔍 This app is a node.js project that allows the user to view Star Wars character attributes and add new characters as desired.
+
+  [App Deployed to Heroku](https://glacial-reef-81300.herokuapp.com/)
+
+  ## Table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+
+  ## Installation
+  💾 npm i express
+
+  ## Usage
+  💻 Learning the full stack with JS, Node, and Express ... [Deployed to Heroku](https://glacial-reef-81300.herokuapp.com/)
+
+  ## License
+  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+  <br />
+  This application is covered by the MIT license. 
+
+  ## Contributing
+  👪 Jason McGinthy
+
+  ## Tests
+  ✏️ no
+
+  ## Questions
+  ✋ Submit Github issue or email me directly<br />
+  <br />
+
+  :octocat: Find me on GitHub: [codragon2020](https://github.com/codragon2020)<br />
+  <br />
+  ✉️ Email me with any questions: jasonmcginthy@gmail.com<br /><br />
+
+  _This README was generated with ❤️ by [README-generator](https://github.com/codragon2020/readme_generator) 🔥🔥🔥_
+
